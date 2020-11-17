@@ -1,0 +1,354 @@
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\TimeSheetApp.exe
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\TimeSheetApp.deps.json
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\TimeSheetApp.runtimeconfig.json
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\TimeSheetApp.runtimeconfig.dev.json
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\TimeSheetApp.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\TimeSheetApp.pdb
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\TimeSheetApp.Views.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\TimeSheetApp.Views.pdb
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.csprojAssemblyReference.cache
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.AssemblyInfoInputs.cache
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.AssemblyInfo.cs
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.RazorAssemblyInfo.cache
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.RazorAssemblyInfo.cs
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.TagHelpers.input.cache
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.TagHelpers.output.cache
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.RazorCoreGenerate.cache
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.RazorTargetAssemblyInfo.cache
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.RazorTargetAssemblyInfo.cs
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.Views.pdb
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\staticwebassets\TimeSheetApp.StaticWebAssets.Manifest.cache
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\staticwebassets\TimeSheetApp.StaticWebAssets.xml
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.pdb
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.genruntimeconfig.cache
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.csproj.CopyComplete
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.csproj.CoreCompileInputs.cache
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\Razor\Pages\Employees\Create.cshtml.g.cs
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\Razor\Pages\Employees\Delete.cshtml.g.cs
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\Razor\Pages\Employees\Details.cshtml.g.cs
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\Razor\Pages\Employees\Edit.cshtml.g.cs
+C:\Users\yyisr\source\repos\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\Razor\Pages\Employees\Index.cshtml.g.cs
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\appsettings.json
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\TimeSheetApp.exe
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\TimeSheetApp.deps.json
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\TimeSheetApp.runtimeconfig.json
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\TimeSheetApp.runtimeconfig.dev.json
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\TimeSheetApp.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\TimeSheetApp.pdb
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\TimeSheetApp.Views.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\TimeSheetApp.Views.pdb
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.csprojAssemblyReference.cache
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.csproj.CoreCompileInputs.cache
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.MvcApplicationPartsAssemblyInfo.cache
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.RazorAssemblyInfo.cache
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.RazorAssemblyInfo.cs
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.AssemblyInfoInputs.cache
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.AssemblyInfo.cs
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.TagHelpers.input.cache
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.TagHelpers.output.cache
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.RazorCoreGenerate.cache
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\Razor\Pages\Employees\Create.cshtml.g.cs
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\Razor\Pages\Employees\Delete.cshtml.g.cs
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\Razor\Pages\Employees\Details.cshtml.g.cs
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\Razor\Pages\Employees\Edit.cshtml.g.cs
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\Razor\Pages\Employees\Index.cshtml.g.cs
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.RazorTargetAssemblyInfo.cache
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.RazorTargetAssemblyInfo.cs
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.Views.pdb
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.csproj.CopyComplete
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\staticwebassets\TimeSheetApp.StaticWebAssets.Manifest.cache
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\staticwebassets\TimeSheetApp.StaticWebAssets.xml
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.dll
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.pdb
+E:\VTT\Projects\Employee management\TimeSheetApp\TimeSheetApp\obj\Debug\netcoreapp3.1\TimeSheetApp.genruntimeconfig.cache
